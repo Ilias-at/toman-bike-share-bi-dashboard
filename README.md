@@ -1,6 +1,6 @@
 # 🚴 Toman Bike Share: Strategic Business Intelligence Dashboard
 
-## Project Summary
+## Project Overview
 
 This project demonstrates end-to-end data analytics and Business Intelligence (BI) skills by transforming raw bike-share data into a strategic Power BI dashboard. The analysis delivers actionable insights used to optimize pricing, enhance operational focus, and maximize profitability.
 
